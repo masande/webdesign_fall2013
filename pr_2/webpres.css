@@ -1,0 +1,43 @@
+ * { 
+	margin : 0;
+	padding: 0;
+}
+
+body { 
+	font-family: Helvetica, Arial, sans-serif;
+	font-weight: normal;
+	color: #000000;
+	font-size: 13px;
+	text-align: center;
+	letter-spacing: 1px; 
+	line-height: 17px; 
+	background-color: #efefef; }
+
+
+#container {
+  margin: 0 auto; 
+  margin-top: 100px;
+  width: 900px; 
+ 
+  }
+  
+header {
+  	
+  	
+	color: blue; 
+	font-size: 16px;
+	position: fixed;
+	top:0; 
+	width: 90%;  
+	background-color: #efefef; 
+	border-bottom: 2px blue solid; 
+	padding: 10px;
+	margin-left: 5%;
+	}
+	
+#text {
+	 margin: 0 auto; 
+	 text-align: left;
+  margin-top: 10px;
+  width: 600px; 
+  }
